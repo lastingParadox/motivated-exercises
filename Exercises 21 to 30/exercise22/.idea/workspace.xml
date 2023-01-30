@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fee4aeef-a3e3-4be1-8c51-ff1bbaa3c40d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercise06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise07/src/main/java/exercises/base/Solution07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise07/src/main/java/exercises/base/Solution07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise08/src/main/java/exercises/base/Solution08.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise08/src/main/java/exercises/base/Solution08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise09/src/main/java/exercises/base/Solution09.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise09/src/main/java/exercises/base/Solution09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise10/src/main/java/exercises/base/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise10/src/main/java/exercises/base/Solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise11/src/main/java/exercises/base/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise11/src/main/java/exercises/base/Solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise12/src/main/java/exercises/base/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise12/src/main/java/exercises/base/Solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise13/src/main/java/exercises/base/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise13/src/main/java/exercises/base/Solution13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise14/src/main/java/exercises/base/Solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise14/src/main/java/exercises/base/Solution14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise15/src/main/java/exercises/base/Solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise15/src/main/java/exercises/base/Solution15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise16/src/main/java/exercises/base/Solution16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise16/src/main/java/exercises/base/Solution16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise17/src/main/java/exercises/base/Solution17.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise17/src/main/java/exercises/base/Solution17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise18/src/main/java/exercises/base/Solution18.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise18/src/main/java/exercises/base/Solution18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise19/src/main/java/exercises/base/Solution19.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise19/src/main/java/exercises/base/Solution19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise20/src/main/java/exercises/base/Solution20.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise20/src/main/java/exercises/base/Solution20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise21/src/main/java/exercises/base/Solution21.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise21/src/main/java/exercises/base/Solution21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36bfb5e4c743a5023c871c968c9961b97e8945dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/base/Solution22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/base/Solution22.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise22" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise22" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise22" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1y8c66Ilwj9czZdinwvHUPnlDOW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="exercise22 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.exercise22 [run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fee4aeef-a3e3-4be1-8c51-ff1bbaa3c40d" name="Changes" comment="" />
+      <created>1631636480146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631636480146</updated>
+      <workItem from="1631636481470" duration="2431000" />
+      <workItem from="1631639292098" duration="3000" />
+      <workItem from="1631641348245" duration="600000" />
+      <workItem from="1631805450167" duration="211000" />
+      <workItem from="1631846745765" duration="153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

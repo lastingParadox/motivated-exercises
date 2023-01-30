@@ -1,0 +1,36 @@
+@startuml
+
+class Solution43 {
+    -{static}Scanner input
+
+    -String validateResponse()
+    +{static} void main()
+}
+
+class WebsiteGenerator {
+    -String siteName
+    -String author
+    -String filePath
+    -boolean js = false
+    -boolean css = false
+
+    +void createWebsiteFolder()
+    +void createFolder()
+    +void createHTML()
+    +String returnOutput()
+}
+
+Solution43 o-- WebsiteGenerator
+
+note left of WebsiteGenerator::createHTML
+    Contains FileWriter to
+    ./siteName/author/index.html
+end note
+
+note left of WebsiteGenerator::createFolder
+    Potentially creates directories
+    ./siteName/author/js
+    ./siteName/author/css
+end note
+
+@enduml

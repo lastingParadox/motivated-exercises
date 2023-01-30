@@ -1,0 +1,27 @@
+@startuml
+class Solution41 {
+    +void writeOutput()
+    +{static} void main()
+}
+
+class NameSorter {
+    -File inputFile
+
+    +List<String> createListofNames()
+    +List<String> sortNames()
+    +String listOutput()
+}
+
+note right of NameSorter::createListofNames()
+    Contains FileReader to
+    inputFile
+end note
+
+note right of Solution41::writeOutput
+    Contains FileWriter to
+    outputFile provided
+end note
+
+Solution41 o-- NameSorter
+
+@enduml

@@ -1,0 +1,46 @@
+@startuml
+
+class Solution45 {
+    -{static}Scanner input
+    -String promptUser()
+    +File validateFile()
+    +{static}void main()
+}
+
+class FileReplace {
+    -List<String> lines
+    -String outputPath
+
+    +List<String> replaceWord()
+    +String getOutputPath()
+    +void writeFile()
+    +String toString()
+}
+
+Solution45 o-- FileReplace
+
+note right of Solution45::validateFile {
+    Ensures the file path given
+    by FileReplace exists
+}
+
+note right of FileReplace::writeFile {
+    Includes a
+    FileWriter to
+    user output.
+}
+
+note right of FileReplace::toString {
+    Overrides
+    String.toString(),
+    returning lines String.
+}
+
+note left of FileReplace {
+    Has a
+    BufferedReader
+    in constructor
+    to read input file
+}
+
+@enduml

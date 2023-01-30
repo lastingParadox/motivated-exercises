@@ -1,0 +1,45 @@
+@startuml
+
+class Solution44 {
+    +ProductList createProductList()
+    -String promptUser()
+    +Item getListItem()
+    +{static} void main()
+}
+
+class Item {
+    -final String name
+    -final double price
+    -final int quantity
+
+    +String getName()
+    +String toString()
+}
+
+class ProductList {
+    -final Item[] products
+
+    +Item[] getItems()
+    +String toString()
+}
+
+ProductList *-- "many" Item : contains
+Solution44 o-- ProductList
+
+note right of Item::toString
+    Overrides Java "toString"
+    method for output
+end note
+
+note right of ProductList::toString
+    Overrides Java "toString" method
+    for unit testing and output
+end note
+
+note right of Solution44::createProductList
+    Contains FileReader to
+    "./data/exercise44_input.json"
+    Uses Gson to parse json located @ FileReader
+end note
+
+@enduml

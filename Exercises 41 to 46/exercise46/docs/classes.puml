@@ -1,0 +1,23 @@
+@startuml
+
+class Solution46 {
+    +{static} void main()
+}
+
+class FrequencySorter {
+    -File inputFile
+
+    +Map<String, Integer> createFrequencyMap()
+    +List<Map.Entry<String, Integer> sortedMapList()
+    +String histogram()
+}
+
+Solution46 o-- FrequencySorter
+
+note right of FrequencySorter::createFrequencyMap
+    Contains
+    BufferedReader
+    to read input.
+end note
+
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+
+class EmployeeList {
+    + Map<String, String> createEmployee()
+    + List<String> createEmployeeList()
+}
+
+class Solution42 {
+    + String listOutput()
+    + void writeOutput()
+    + {Static} void main()
+}
+
+Solution42 o-- EmployeeList
+
+note right of EmployeeList::createEmployee()
+    Contains FileReader to
+    inputFile given
+end note
+
+note right of Solution42::writeOutput
+    Contains FileWriter to
+    outputFile given
+end note
+
+
+@enduml
